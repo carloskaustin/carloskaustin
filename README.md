@@ -1,14 +1,13 @@
 # 👋 Hi, I'm Carlos Austin!
 
-🎓 **Aspiring Data Analyst & Masters Candidate at Baruch College**  
-🔍 Concentration: Business Analytics (Data Analytics)  
-📊 **Proficient in SQL & Excel** | Practicing Python & Tableau
+🎓 **MS in Business Analytics (Data Analytics Track) at Baruch College**  
+📊 **Proficient in SQL, Excel, Python, & Tableau**
 
 ---
 
 ## About Me
 
-I'm currently sharpening my data skills as a master's candidate at Baruch College, focusing on business analytics with a concentration in data analytics. My journey began as a researcher at MDRC, where I studied the impact of policies and programs on people with low incomes—a role that ignited my passion for using data to drive positive change.
+I'm currently sharpening my data skills as a master's candidate at Baruch College, majoring in business analytics with a concentration in data analytics. My professional journey began as a researcher at MDRC, where I studied the impact of policies and programs on people with low incomes—a role that ignited my passion for using data to drive positive change.
 
 Outside of academics, you'll find me exploring the world, staying active through sports and fitness, and enjoying music whenever I can.
 
@@ -41,6 +40,13 @@ Outside of academics, you'll find me exploring the world, staying active through
 
 ---
 
+## 🎓 Education
+
+- **Baruch College** — MS, Business Analytics (Data Analytics)
+- **New York University (NYU)** — BA, Politics
+
+---
+
 ## 🌍 Interests
 
 - Sports & Fitness
@@ -57,8 +63,7 @@ Outside of academics, you'll find me exploring the world, staying active through
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-austin-ba4598187/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-austin-ba4598187/)  
 📧 ca1989@nyu.edu
 
 ---
