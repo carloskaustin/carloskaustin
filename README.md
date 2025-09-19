@@ -9,8 +9,6 @@
 
 I'm currently sharpening my data skills as a master's candidate at Baruch College, majoring in business analytics with a concentration in data analytics. My professional journey began as a researcher at MDRC, where I studied the impact of policies and programs on people with low incomes—a role that ignited my passion for using data to drive positive change.
 
-Outside of academics, you'll find me exploring the world, staying active through sports and fitness, and enjoying music whenever I can.
-
 ---
 
 ## 🛠️ Skills
