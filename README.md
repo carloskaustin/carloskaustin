@@ -48,7 +48,7 @@ I'm currently sharpening my data skills as a master's candidate at Baruch Colleg
 ## 🌍 Interests
 
 - Sports & Fitness
-- Music
+- Playing the Guitar
 - Traveling
 
 ---
