@@ -31,6 +31,12 @@ I'm currently sharpening my data skills as a master's candidate at Baruch Colleg
 
 ## 📌 Notable Experience
 
+**MTA**  
+*Data Analyst*  
+- Evaluate performance of AI-powered camera enforcement systems
+- Query and analyze large-scale traffic enforcement data using SQL and Python, leveraging ArcGIS for spatial analysis to identify violation patterns and geographic hotspots across New York City
+- Develop interactive dashboards and visualizations in Power BI to support operational decision-making and program evaluation
+
 **MDRC**  
 *Researcher*  
 - Studied how policies and programs affect people with low incomes  
