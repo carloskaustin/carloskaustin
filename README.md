@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm currently sharpening my data skills as a master's candidate at Baruch College, majoring in business analytics with a concentration in data analytics. My professional journey began as a researcher at MDRC, where I studied the impact of policies and programs on people with low incomes. This role ignited my passion for using data to drive positive change.
+I'm currently sharpening my data skills as a master's candidate at Baruch College, majoring in business analytics with a concentration in data analytics. My professional journey began as a researcher at MDRC, where I studied the impact of policies and programs on people with low incomes. This role ignited my passion for using data to drive positive change. I am now continuing my journey in data at the MTA, where I analyze AI-powered camera enforcement systems and their impact on bus operations and transportation efficiency.
 
 ---
 
@@ -16,16 +16,11 @@ I'm currently sharpening my data skills as a master's candidate at Baruch Colleg
 - **SQL**
 - **Excel** 
 - **Python** 
-- **Tableau** 
+- **Tableau**
+- **Power BI**
 - Data Cleaning & Analysis
 - Research & Impact Evaluation
-
----
-
-## 🌱 Current Focus
-
-- Deepening my Python and Tableau skills through hands-on projects.
-- Applying data analytics to real-world challenges.
+- Causal Inference and Randomized Control Trials
 
 ---
 
