@@ -20,7 +20,7 @@ I'm currently sharpening my data skills as a master's candidate at Baruch Colleg
 - **Power BI**
 - Data Cleaning & Analysis
 - Research & Impact Evaluation
-- Causal Inference and Randomized Control Trials
+- Causal Inference and Randomized Controlled Trials
 
 ---
 
