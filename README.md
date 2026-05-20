@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Carlos Austin!
 
 🎓 **MS in Business Analytics (Data Analytics Track) at Baruch College**  
-📊 **Proficient in SQL, Excel, Python, & Tableau**
+📊 **Proficient in SQL, Excel, Python, Tableau, & Power BI**
 
 ---
 
